@@ -70,7 +70,7 @@ pytest test_summarizer.py -v
 ## Tech stack
 
 - Python 3.10+
-- [Groq API](https://console.groq.com) with LLaMA 3 model
+- [Groq API](https://console.groq.com) with LLaMA 3.3 70B model (llama-3.3-70b-versatile)
 - `requests` + `beautifulsoup4` for URL fetching
 - `python-dotenv` for secure API key handling
 - `pytest` + `unittest.mock` for testing
